@@ -1,0 +1,1 @@
+# self_side_project
