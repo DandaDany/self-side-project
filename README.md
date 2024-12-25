@@ -28,3 +28,30 @@
 ```bash
 git clone https://github.com/YourUsername/youtube-chat-crawler.git
 cd youtube-chat-crawler
+2. 安裝相依套件：
+```bash
+pip install -r requirements.txt
+
+## 使用說明
+1.開啟 Jupyter Notebook：
+```bash
+pip install -r requirements.txt
+2.執行 youtube-livestream-chatbox-crawling.ipynb
+3.修改目標直播網址：
+```bash
+driver.get('YOUR_YOUTUBE_LIVE_URL')
+
+## 輸出格式
+資料將以 DataFrame 格式儲存，包含以下欄位：
+
+日期：訊息發送日期（YYYY/MM/DD）
+時間：訊息發送時間（HH:MM AM/PM）
+使用者：發送訊息的用戶名稱
+訊息：聊天內容
+
+## 注意事項
+
+需要穩定的網路連接
+YouTube 網站更新可能影響爬蟲功能
+建議定期檢查輸出資料確保正常運作
+
