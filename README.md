@@ -55,4 +55,3 @@ driver.get('YOUR_YOUTUBE_LIVE_URL')
 - 需要穩定的網路連接
 - YouTube 網站更新可能影響爬蟲功能
 - 建議定期檢查輸出資料確保正常運作
-```
