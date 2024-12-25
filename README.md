@@ -25,7 +25,7 @@
 
 ## 安裝方式
 
-1. 克隆專案：
+1. 複製專案：
 ```bash
 git clone https://github.com/YourUsername/Yield-rate-web-crawler.git
 cd Yield-rate-web-crawler
