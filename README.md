@@ -1,4 +1,4 @@
-# YouTube Live Chat Crawler
+# YouTube 直撥聊天室爬蟲工具
 這是一個用於擷取 YouTube 直播聊天室訊息的爬蟲工具。此工具可以自動抓取指定 YouTube 直播聊天室的對話內容，並將其儲存為結構化數據。
 
 ## 功能特點
@@ -20,7 +20,7 @@
   - webdriver_manager
 
 ## 安裝方式
-1. 克隆專案：
+1. 複製專案：
 ```bash
 git clone https://github.com/YourUsername/youtube-chat-crawler.git
 cd youtube-chat-crawler
