@@ -1,0 +1,10 @@
+pandas
+selenium
+beautifulsoup4
+pyautogui
+undetected_chromedriver
+webdriver_manager
+requests
+Pillow
+matplotlib
+jupyter
