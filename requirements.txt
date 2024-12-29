@@ -1,8 +1,10 @@
 pandas
-numpy
 selenium
 beautifulsoup4
 pyautogui
-undetected-chromedriver
-webdriver-manager
+undetected_chromedriver
+webdriver_manager
+requests
+Pillow
+matplotlib
 jupyter
