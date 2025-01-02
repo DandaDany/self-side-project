@@ -4,7 +4,7 @@
 
 ## 專案列表
 
-### 1. YouTube Live Chat Crawler
+### 1. YouTube Web Crawler
 - 抓取 YouTube 直播聊天室的對話內容
 - 支援自動滾動載入更多訊息
 - 輸出結構化的聊天記錄
